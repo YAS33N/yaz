@@ -2,7 +2,7 @@
 Hello!
 Iam 17years old guy from kerala who loves to code.
 Iam familiar with html,css, javascript, bootstrap.
-Iam currently working at  full stack developer.
+Iam currently working as a full stack web developer.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/9fRdacAd7g) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__mohd___yaseen__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-yaseen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://youtube.com/channel/UCp2r4hJjp3jlZGOuYkXyugg) 
